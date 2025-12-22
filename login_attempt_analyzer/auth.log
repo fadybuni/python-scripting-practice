@@ -1,0 +1,4 @@
+SUCCESS user=fady
+FAILED user=admin
+FAILED user=test
+SUCCESS user=guest

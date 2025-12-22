@@ -1,0 +1,5 @@
+INFO System started
+INFO User logged in
+ERROR Disk space low
+INFO Process completed
+ERROR Network timeout
