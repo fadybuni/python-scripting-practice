@@ -1,0 +1,12 @@
+Location: Detroit, United States
+Latitude: 42.33143, Longitude: -83.04575
+
+Current temperature (°C): 1.0
+Current wind speed (km/h): 3.1
+
+Next 5 days:
+2025-12-26  max: 1.7°C  min: -2.0°C  rain: 8.9 mm
+2025-12-27  max: 1.0°C  min: -0.7°C  rain: 0.0 mm
+2025-12-28  max: 7.2°C  min: -0.4°C  rain: 47.8 mm
+2025-12-29  max: 11.6°C  min: -3.3°C  rain: 13.3 mm
+2025-12-30  max: -2.4°C  min: -5.3°C  rain: 0.0 mm
