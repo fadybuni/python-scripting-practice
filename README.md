@@ -62,12 +62,14 @@ Stock Price Fetcher
 Uses the Alpha Vantage API to:
 - ask for a stock ticker (AAPL, MSFT, TSLA, etc.)
 - fetch live stock price
+- show percent change since the previous trading day
 - handle invalid symbols and rate limits
 
 Concepts Practiced
 - API keys
 - parsing structured JSON
 - defensive coding
+- working with financial data
 
 --------------------------------
 
